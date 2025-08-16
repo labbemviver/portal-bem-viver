@@ -1,3 +1,5 @@
+import MapEmbed from "@/components/MapEmbeded";
+
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-start p-8">
@@ -6,8 +8,8 @@ export default function Home() {
         Laboratório Digital do Bem Viver
       </h1>
 
-      {/* Menu simples */}
-      <nav className="flex gap-6">
+      {/* Menu */}
+      <nav className="flex gap-6 mb-10">
         <a href="#sobre" className="text-blue-600 hover:underline">
           Sobre
         </a>
@@ -18,6 +20,9 @@ export default function Home() {
           Contato
         </a>
       </nav>
+
+      {/* Mapa via iframe */}
+      <MapEmbed />
     </main>
-  )
+  );
 }
