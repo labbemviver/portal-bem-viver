@@ -10,14 +10,11 @@ export default function Home() {
 
       {/* Menu */}
       <nav className="flex gap-6 mb-10">
-        <a href="#sobre" className="text-blue-600 hover:underline">
-          Sobre
+        <a href="/olabbemviver" className="text-blue-600 hover:underline">
+          O Lab Bem Viver
         </a>
-        <a href="#atividades" className="text-blue-600 hover:underline">
-          Atividades
-        </a>
-        <a href="#contato" className="text-blue-600 hover:underline">
-          Contato
+        <a href="#projetos" className="text-blue-600 hover:underline">
+          Nossos projetos
         </a>
       </nav>
 
