@@ -16,6 +16,9 @@ export default function Home() {
         <a href="#projetos" className="text-blue-600 hover:underline">
           Nossos projetos
         </a>
+        <a href="/materiais" className="text-blue-600 hover:underline">
+          Materiais de aprendizado
+        </a>
       </nav>
 
       {/* Mapa via iframe */}
