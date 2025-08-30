@@ -13,7 +13,7 @@ export default function Home() {
         <a href="/olabbemviver" className="text-blue-600 hover:underline">
           O Lab Bem Viver
         </a>
-        <a href="#projetos" className="text-blue-600 hover:underline">
+        <a href="/projetos" className="text-blue-600 hover:underline">
           Nossos projetos
         </a>
         <a href="/materiais" className="text-blue-600 hover:underline">
