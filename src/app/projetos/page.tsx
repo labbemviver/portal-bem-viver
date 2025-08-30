@@ -12,28 +12,28 @@ type Projeto = {
 
 const projetos: Projeto[] = [
   {
-    titulo: "Lorem ipsum dolor sit amet 1",
-    subtitulo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    titulo: "Pedreira SP",
+    subtitulo: "Informações rápidas da regiao Pedreira",
     descricao:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    imagem: "/images/400x250.png",
-    creditos: "Desenvolvido por Maria e João",
+      "O site que não falta em eficiência para o usuário, com informações locais da região, soluções criativas, fácil acesso e informações confiáveis. Oferece cursos e projetos, além de coisas interessantes da região — um site que não faz você perder tempo procurando informações. Acesse em: https://labbemviver1.wixsite.com/pedreira-sp",
+    imagem: "/images/pedreira-sp.PNG",
+    creditos: "Desenvolvido por Caio, Deivid e Rodrigo",
   },
   {
-    titulo: "Lorem ipsum dolor sit amet 2",
-    subtitulo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    titulo: "Desenvolva Pedreira",
+    subtitulo: "Pedreira na palma da mão",
     descricao:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    imagem: "/images/400x250.png",
-    creditos: "Autores: Equipe Jovens Criadores",
+      "O site que ajudará a buscar notícias, eventos e cursos da região da Pedreira, facilitando o acesso às informações.",
+    imagem: "/images/desenvolva-pedreira.jpg",
+    creditos: "Autores: Matheus",
   },
     {
-    titulo: "Lorem ipsum dolor sit amet 3",
-    subtitulo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    titulo: "Coleta Inteligente",
+    subtitulo: "Qualidade em descarte",
     descricao:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    imagem: "/images/400x250.png",
-    creditos: "Autores: Equipe Jovens Criadores",
+      "Seja inteligente e faça o descarte no seu lixo de forma consciente.",
+    imagem: "/images/coleta-inteligente.png",
+    creditos: "Autores: Ailton, Jucélio e Maria",
   },
 ];
 
